@@ -6,7 +6,7 @@
 // } Driver Code Ends
 // User function Template for C++
 
-class Solution {
+class countReversePair {
   public:
     void merge(vector<int>&arr,int low, int mid, int high){
         // long long size=high-low+1;
