@@ -1,6 +1,4 @@
-public class morrisInorderTraversal {
-    
-}
+
 // { Driver Code Starts
 // Initial Template for Java
 
