@@ -45,7 +45,7 @@ public class tUf {
         ArrayList<ArrayList<Integer>> edges = new ArrayList<>() {
             {
                 add(new ArrayList<Integer>(Arrays.asList(3, 2, 6)));
-                add(new ArrayList<Integer>(Arrays.asList(5, 3, 1)));
+                add(new ArrayList<Integer>(Arrays.asList(4, 3, 1)));
                 add(new ArrayList<Integer>(Arrays.asList(0, 1, 5)));
                 add(new ArrayList<Integer>(Arrays.asList(1, 5, -3)));
                 add(new ArrayList<Integer>(Arrays.asList(1, 2, -2)));

@@ -45,7 +45,7 @@ public class tUf {
             }
         }
 
-        matrix[0][1] = 2;
+        matrix[0][1] = 3;
         matrix[1][0] = 1;
         matrix[1][2] = 3;
         matrix[3][0] = 3;
